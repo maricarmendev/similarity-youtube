@@ -1,5 +1,11 @@
 # Notes about the projects
 
+This project was created by following the next steps:
+1. Create a next app using `npx create-next-app@latest --experimental-app`
+2. Install all dependencies and dev dependencies
+3. Setting up tailwind and tested it
+4. Remove unnecessary code
+5. Create important reusable components (ui)
 
 ## Installed dependencies:
 ### `@mui/material`, `@emotion/react` and `@emotion/styled`: 
